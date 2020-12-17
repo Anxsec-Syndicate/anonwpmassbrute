@@ -63,6 +63,7 @@ echo -e "${WHT}                   https://github.com/Anxsec-Syndicate"
 echo -e "${PUR}  •DONASI:"
 echo -e  "${GRN} [✓] https://saweria.co/XAI666GHOST ]"
 echo -e  "${GRN} [✓] https://saweria.co/Rdroid      ]"
+echo -e  "${GRN} [✓] https://saweria.co/Winky_S3c      ]"
 echo -e  "${YEL}"
           date
 echo -ne "${RED}[?] Input website target : ${WHT}"
