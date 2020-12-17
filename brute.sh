@@ -1,6 +1,7 @@
 #!/bin/bash
 #Coded By XAI666GHOST
-#AnCsec Syndicate
+#AnXsec Syndicate
+#udah,tinggal pakai aja:)
 
 #----------- CONFIGURATION -----------
 curl_timeout=20
