@@ -17,6 +17,8 @@
 <a href="https://github.com/Anxsec-Syndicate/anonwpmassbrute/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Anxsec-Syndicate/anonwpmassbrute?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
+### <<>>NEW UPDATE LIST PASS 37800
+
 ## Installation :
 
 * `apt update && apt uograde`
